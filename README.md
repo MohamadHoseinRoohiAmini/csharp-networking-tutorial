@@ -9,8 +9,6 @@
 - 🔗 TCP و UDP در C#
 - ⚡ مثال‌های عملی
 
----
-
 ## 📥 دانلود فایل PDF
 [دانلود مستقیم](./CSharp-Networking-Tutorial.pdf)
 ---
