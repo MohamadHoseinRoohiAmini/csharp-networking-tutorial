@@ -13,6 +13,12 @@
 برای دانلود فایل PDF آموزش، از لینک زیر استفاده کنید:  
 [دانلود آموزش Networking در C#](./c-sharp-networking-document.pdf)
 
+## مشاهده آنلاین فایل PDF
+
+برای مشاهده فایل PDF به صورت آنلاین، از لینک زیر استفاده کنید:  
+[مشاهده آموزش Networking در C#](https://mohamadhoseinroohiamini.github.io/csharp-networking-tutorial/)
+
+
 ## مشارکت در پروژه
 
 در صورتی که پیشنهاد، نکته یا اصلاحی دارید، خوشحال می‌شوم که از طریق **Pull Request** به پروژه کمک کنید.
