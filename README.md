@@ -21,5 +21,5 @@
 ---
 
 ## 📫 ارتباط با من
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/mhramini])
+- 🟦 LinkedIn: https://www.linkedin.com/in/mhramini
 - ✉️ Email: mhroohiamini@gmail.com
